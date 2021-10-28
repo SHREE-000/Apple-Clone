@@ -205,13 +205,16 @@ margin-top: 10px;
         display: none;
     }
 }
+
 body{
     margin: 0;
 }
 html, body{
-    overflow-x:hidden;
+overflow-x: hidden;
 }
-
+.row{
+    cursor: pointer;
+}
 
 
 
