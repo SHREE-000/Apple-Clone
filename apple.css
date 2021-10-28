@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+}
+.nav-link{
+    margin-left:25px;
+}
+span{
+    color: #06c;
+    
+}
+h5{
+    color: #06c;
+}
+h1{
+   font-weight: 1000px;
+   line-height: 20px;
+   font-size: 55px;
+}
+.space{
+    width: 100%;
+    height: 50px;
+}
+.space1{
+    width: 100%;
+    height: 20px;
+}
+h3{
+    font-size: 25px;
+    font-weight: 480;
+}
+.space2{
+    width: 100%;
+    height: 10px;
+    line-height: 20px;
+}
+.violet{
+    background-color: #35283c;
+}
+h6{
+    font-size: 55px;
+    margin-top: 55px;
+}
+.iphon{
+    color: #d2a0c5;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1;
+}
+.learn{
+    color: #06c;
+    font-size: 21px;
+    line-height: 3;
+}
+.img2{
+    width: 100%;
+}
+.macbook{
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 45px;
+}
+.supercharge{
+    font-size: 25px;
+    font-weight: 500;
+}
+.available{
+color: #a7a7ab;
+font-size: 17px;
+margin-top: 10px;
+}
+.buy{
+    color: #06c;
+    font-size: 23px;
+    letter-spacing: inherit;
+    margin-top: 10px;
+}
+.mac-img{
+    width: 100%;
+}
+.airpod{
+    width: 100%;
+}
+.hom{
+    
+    width: 100%;
+}
+.airpo{
+    font-size: 40px;
+    font-weight: 600;
+}
+.all{
+    font-size: 20px;
+    font-weight: 450;
+}
+.start{
+    font-size: 13px;
+    color: #a7a7ab;
+    margin: 5px;
+}
+.order{
+    font-size: 18px;
+    color: #06c;
+    margin-top: 5px;
+}
+.home{
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 55px;
+}
+.yellow{
+    font-size: 13px;
+    color: #a7a7ab;
+    margin: 5px;
+}
+.new{
+    font-size: 13px;
+    padding-top: 125px;
+    color: #d99770;
+    font-weight: 400;
+    line-height: 0;
+}
+.wat{
+    font-size: 25px;
+    padding-top: 140px;
+    width: 25%;
+}
+.watch{
+    margin-top: 15px;
+        width: 25%;
+}
+.hand{
+    margin-top: 30px;
+    width: 78%;
+}
+.watt{
+    margin-top: 25px;
+    width: 78%;
+}
+.the{
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 0;
+    margin-top: 24px;
+}
+.orde{
+    font-size: 18px;
+    color: #06c;
+    line-height: 2;
+}
+.comm{
+    margin-top: 100px;
+    background-color: #f5f5f7;
+    color:rgb(110, 110, 115);
+    font-size: 11px;
+}
+.line{
+    border-bottom: solid 2px;
+    margin-top: 80px;
+    color: #c5c5c8;
+}
+.comm1{
+    
+    background-color: #f5f5f7;
+    color:rgb(110, 110, 115);
+    font-size: 12px;
+}
+.sect{
+    font-size: 40px;
+    color:rgb(66, 66, 69);
+    
+}
+.head{
+    font-size: 40px;
+    font-weight: 600;
+    color:rgb(33, 37, 41);
+}
+.lap{
+    width: 100%;
+}
+.tv{
+    width: 100%;
+}
+.head{
+    font-size: 12px;
+}
+.sect{
+    font-size: 12px;
+}
+.bar{
+    width: 100%;
+    background-color:#ececed;
+}
+
+.accordion-collapse{
+    background-color: #f5f5f7;
+    font-size: 12px;   
+}
+@media only screen and (max-width: 830px) {
+    .large-foot{
+        display: none;
+    }
+}
+@media only screen and (min-width: 830px) {
+    .small-foot{
+        display: none;
+    }
+}
+body{
+    margin: 0;
+}
+
+
+
+
+
